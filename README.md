@@ -1,3 +1,5 @@
+# GIF
+![](Onboarding.gif)
 
 # Installation
 
